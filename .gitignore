@@ -26,10 +26,10 @@ public
 package.json
 package-lock.json
 vite.config.ts
-manifest.json
 tsconfig.json
 tsconfig.node.json
 postcss.config.js
 tailwind.config.js
 index.html
 .eslintrc.cjs
+/manifest.json

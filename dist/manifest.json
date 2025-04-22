@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "WhatTheStack",
+    "version": "1.0",
+    "description": "program that identifies technologies on the site and server",
+    "permissions": [
+        "tabs",
+        "scripting",
+        "activeTab"
+    ],
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "action": {
+        "default_popup": "src/pages/popup.html",
+        "default_icon": {
+            "16": "icons/eyes.png"
+        }
+    },
+    "icons": {
+        "16": "icons/eyes.png"
+    }
+}
