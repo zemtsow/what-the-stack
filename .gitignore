@@ -21,7 +21,6 @@ node_modules
 *.njsproj
 *.sln
 *.sw?
-src
 public
 package.json
 package-lock.json
@@ -33,3 +32,4 @@ tailwind.config.js
 index.html
 .eslintrc.cjs
 /manifest.json
+/src/*
