@@ -1,6 +1,6 @@
 # WhatTheStack
 
-**Version: 0.0.1-alpha**
+**Version: 0.0.8**
 
 Welcome to **WhatTheStack** — a lightweight, blazing-fast tool to detect technologies used on websites and servers. 🚀  
 Whether you're scouting a project, doing research, or just satisfying your curiosity — WhatTheStack has your back.
