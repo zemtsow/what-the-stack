@@ -33,3 +33,5 @@ index.html
 .eslintrc.cjs
 /manifest.json
 /src/*
+stash
+nodemon.json
