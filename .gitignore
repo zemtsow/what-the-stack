@@ -35,3 +35,4 @@ index.html
 /src/*
 stash
 nodemon.json
+.env
