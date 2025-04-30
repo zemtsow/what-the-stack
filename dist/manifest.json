@@ -3,6 +3,7 @@
     "name": "WhatTheStack",
     "version": "1.0",
     "description": "program that identifies technologies on the site and server",
+    "homepage_url": "https://yourdomain.com/privacy-policy.html",
     "permissions": [
         "tabs",
         "scripting",
